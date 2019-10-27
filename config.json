@@ -1,0 +1,1 @@
+{"name":"mysite","mailFrom":"info@localhost","hostnames":"localhost,localhost","db":"mysite","dbuser":"mysite","dbpassword":"mysitepass","dbhost":"localhost","smtp":"smtpmailer.localhost","version":"V0.1","defaultlanguage":"en","datapath":"/usr/local/data/mysite","port":3001}
